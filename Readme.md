@@ -20,9 +20,9 @@ Agricultural field delineation and temporal stability analysis over South Tyrol,
 - South Tyrol cadastral parcel shapefile for pixel-level and boundary-level validation
 
 ---
-## How to Run this notebook
+## How to Re-Run this notebook
 
-Copy this whole repo in your google drive directly `MyDrive\Pheno_boundary_detection_Pretrained_SamGeo3` then execute the python notebook in colab with GPU toggled.
+Copy this whole repo in your google drive directly `MyDrive/Pheno_boundary_detection_Pretrained_SamGeo3` then execute the python notebook in colab with GPU toggled.
 
 ---
 ## Results
@@ -49,4 +49,8 @@ Copy this whole repo in your google drive directly `MyDrive\Pheno_boundary_detec
 | 2021 | 0.9896 | 0.3098 | 0.4718 |
 | 2022 | 0.9846 | 0.3652 | 0.5327 |
 | 2023 | 0.9904 | 0.3913 | 0.5609 |
+
+## Interactive map
+
+Download this [map file](data/outputs/sam3_interactive_map.html) and view it locally in your browser
 
